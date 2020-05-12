@@ -1,5 +1,11 @@
 {
-    "dataHubVersion" : "1905.12",
+    "dataHubVersion" : "2005.0",
+    "extensionPacks": [
+        {
+           "name": "hybris-datahub-integration-suite",
+           "version": "2005.0"
+        }
+     ],
     "extensions" : [
         "ccv2-example",
         
